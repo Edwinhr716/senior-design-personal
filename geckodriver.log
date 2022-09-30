@@ -1,0 +1,31 @@
+1664555523131	geckodriver	INFO	Listening on 127.0.0.1:64332
+1664555526217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\edand\\AppData\\Local\\Temp\\rust_mozprofilelz0w8z"
+1664555526750	Marionette	INFO	Marionette enabled
+1664555526757	Marionette	INFO	Listening on port 64345
+Read port: 64345
+1664555527454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edand\\AppData\\Local\\Temp\\rust_mozprofilelz0w8z\\search.json.mozlz4", (void 0)))
+1664555580415	Marionette	INFO	Stopped listening on port 64345
+4555571648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\edand\\AppData\\Local\\Temp\\rust_mozprofilehMZiq8"
+1664555572022	Marionette	INFO	Marionette enabled
+1664555572027	Marionette	INFO	Listening on port 64419
+Read port: 64419
+1664555572135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edand\\AppData\\Local\\Temp\\rust_mozprofilehMZiq8\\search.json.mozlz4", (void 0)))
+1664555703258	geckodriver	INFO	Listening on 127.0.0.1:64525
+1664555706280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\edand\\AppData\\Local\\Temp\\rust_mozprofileP9hR3r"
+1664555706723	Marionette	INFO	Marionette enabled
+1664555706728	Marionette	INFO	Listening on port 64539
+Read port: 64539
+1664555707257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edand\\AppData\\Local\\Temp\\rust_mozprofileP9hR3r\\search.json.mozlz4", (void 0)))
+1664573798644	Marionette	INFO	Stopped listening on port 64539
+[Parent 18772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+mote" "-profile" "C:\\Users\\edand\\AppData\\Local\\Temp\\rust_mozprofile5mm6ZY"
+1664556085586	Marionette	INFO	Marionette enabled
+1664556085592	Marionette	INFO	Listening on port 64953
+Read port: 64953
+1664556085708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edand\\AppData\\Local\\Temp\\rust_mozprofile5mm6ZY\\search.json.mozlz4", (void 0)))
+1664573799706	Marionette	INFO	Stopped listening on port 64953
+[Parent 24804, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
